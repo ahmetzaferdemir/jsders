@@ -1,0 +1,22 @@
+{
+  "name": "jsders",
+  "version": "1.0.0",
+  "description": "Sunucu Tabanlı Programlama",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmetzaferdemir/jsders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmetzaferdemir/jsders/issues"
+  },
+  "homepage": "https://github.com/ahmetzaferdemir/jsders#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
